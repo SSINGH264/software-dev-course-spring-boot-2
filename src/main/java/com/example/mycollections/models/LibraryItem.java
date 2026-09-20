@@ -9,6 +9,7 @@ public class LibraryItem {
         this.year = year;
     }
 
+    //setting getters and setters
     public String getName() {
         return name;
     }
